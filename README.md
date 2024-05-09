@@ -1,5 +1,7 @@
 # EV Vehicle Explosion Predictor
 
+> Link to the mobile app: https://github.com/Nithish-Sri-Ram/IOT-x-Flutter
+
 This repository houses the EV Vehicle Explosion Predictor project, a triumphant solution that secured the Best IoT Project award in a hackathon. Developed to enhance the safety of electric vehicles (EVs), this project focuses on detecting temperature anomalies within an EV bike and sending timely warnings to the user's mobile app when the temperature exceeds the safe limit. This innovative approach aims to prevent potential accidents resulting from vehicle explosions.
 
 ## Project Components
