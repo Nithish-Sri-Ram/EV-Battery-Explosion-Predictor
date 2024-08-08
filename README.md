@@ -1,4 +1,4 @@
-# EV Vehicle Explosion Predictor
+# EV Vehicle Explosion Predictor(Checkout the app's repo too👇)
 
 > Link to the mobile app: https://github.com/Nithish-Sri-Ram/IOT-x-Flutter
 
